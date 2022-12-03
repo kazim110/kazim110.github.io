@@ -1,63 +1,138 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# 📗 Table of Contents
 
-# Project Name
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-> My Portfolio project.
+# 📖 [Kazim's Portfolio] <a name="about-project"></a>
+
+> You can find my recent works here. This is also a direct way to contact with me
+
+**[Kazim's Portfolio]** is a...
+
+## 🛠 Built With <a name="built-with"></a>
+HTML 
+CSS 
+JAVASCRIPT
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://reactjs.org/">JAVASCRIPT</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Github Pages</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- **[Home_Page]**
+- **[About_Page]**
 
 
-## Built With
+## 🚀 Live Demo <a name="live-demo"></a>
 
-- Html and Css
-- No Frameworks
-- Linters 
+- [Live Demo Link](https://kazim110.github.io)
 
+## 💻 Getting Started <a name="getting-started"></a>
 
+ First Clone it 
+ run npm install
+ run npm start
 
-
-## Getting Started
-
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+In order to run this project you need:
+npm
+
+
 ### Setup
+
+Clone this repository to your desired folder:
+git clone https://github.com/kazim110/Afghnistan-Developers-Conference.git
 
 ### Install
 
+Install this project with:
+npm install
+
+
 ### Usage
 
-### Run tests
-
-### Deployment
-
+To run the project, execute the following command:
+npm start
 
 
-## Authors
 
-👤 **Kazim**
+
+## 👥 Authors <a name="authors">Mohammad Kazim</a>
+
+👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/kazim110)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kazim-mohammadi-89aa4a1aa/)
 
- 
-## 🤝 Contributing
+## 👥 UI Design <a name="authors">Cindy Shin</a>
+
+👤 **Designer1**
+
+- Behance: [behance](https://www.behance.net/adagio07)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adagio07/)
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Additional_Animation]**
+- [ ] **[Powerfull_UI]**
+
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+Give a ⭐ if you like this project!
+
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
 
-## 📝 License
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
