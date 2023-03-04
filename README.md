@@ -50,13 +50,15 @@ JAVASCRIPT
 
 ### Key Features <a name="key-features"></a>
 
-- **[Home_Page]**
+- **[Portfolio_Page]**
 - **[About_Page]**
+- **[Contact_Page]**
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://kazim110.github.io)
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -74,7 +76,7 @@ npm
 ### Setup
 
 Clone this repository to your desired folder:
-git clone https://github.com/kazim110/Afghnistan-Developers-Conference.git
+git clone https://github.com/kazim110/My-Portfolio-Project
 
 ### Install
 
@@ -96,14 +98,7 @@ npm start
 
 - GitHub: [@githubhandle](https://github.com/kazim110)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kazim-mohammadi-89aa4a1aa/)
-
-## 👥 UI Design <a name="authors">Cindy Shin</a>
-
-👤 **Designer1**
-
-- Behance: [behance](https://www.behance.net/adagio07)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adagio07/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
 ## 🔭 Future Features <a name="future-features"></a>

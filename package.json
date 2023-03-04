@@ -1,22 +1,22 @@
 {
-  "name": "afghnistan-developers-conference",
+  "name": "my-portfolio-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kazim110/Afghnistan-Developers-Conference.git"
+    "url": "git+https://github.com/kazim110/My-Portfolio-Project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kazim110/Afghnistan-Developers-Conference/issues"
+    "url": "https://github.com/kazim110/My-Portfolio-Project/issues"
   },
-  "homepage": "https://github.com/kazim110/Afghnistan-Developers-Conference#readme",
+  "homepage": "https://github.com/kazim110/My-Portfolio-Project#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
